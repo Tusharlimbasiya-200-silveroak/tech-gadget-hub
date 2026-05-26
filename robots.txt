@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Tusharlimbasiya-200-silveroak.github.io/tech-gadget-hub/sitemap.xml
+Sitemap: https://tech-gadget-hub.github.io/sitemap.xml
